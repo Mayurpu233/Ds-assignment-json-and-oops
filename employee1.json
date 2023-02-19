@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "Name": "Mayur Puranik",
+      "DOB": "22-03-1997",
+      "Height": 155,
+      "City": "Nagpur",
+      "State": "MH"
+    },
+    {
+      "Name": "Jay shah",
+      "DOB": "15-5-1990",
+      "Height": 163,
+      "City": "Gandhinagar",
+      "State": "GJ"
+    },
+    {
+      "Name": "Amit Gujral",
+      "DOB": "25-8-1978",
+      "Height": 182,
+      "City": "Amritsar",
+      "State": "Punjab"
+    },
+    {
+      "Name": "Amit dubey",
+      "DOB": "28-2-1983",
+      "Height": 168,
+      "City": "Houston",
+      "State": "TX"
+    },
+    {
+      "Name": "Tom Smith",
+      "DOB": "1995-11-07",
+      "Height": 180,
+      "City": "San Francisco",
+      "State": "CA"
+    }
+  ]
+}
